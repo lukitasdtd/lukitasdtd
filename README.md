@@ -35,9 +35,10 @@
 <a href="https://github.com/lukitasdtd">
 <img align="center" src="https://avatars.githubusercontent.com/u/220926512?v=4"  width=150px border-radius=50px />
 </a></p></footer>
+	</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580B87&height=120&section=footer"/>
-</div>
-	<!--
+
+<!--
 **lukitasdtd/lukitasdtd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
