@@ -1,14 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580B87&height=120&section=header"/>
 <h1 align="center"> # Hello Friend 👋 # </h1>
 <div align="center">
-	<h2 align="center">Contact me!</h2>
+<h2 align="center">Contact me!</h2>
 <a href = 'https://www.linkedin.com/in/lucas-jim%C3%A9nez-gonz%C3%A1lez-40052637a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 </div>
 
 <h2 align="center"> a little bit of me</h2>
-- 🔭 I’m currently working on Generator Image Binarie ...
-- 🌱 I’m currently learning Javascript with HTML and React...
-- 😄 Pronouns: ...
+<li>
+	<p>🔭 I’m currently working on Generator Image Binarie ...</p>
+</li>
+<li>
+	<p>🌱 I’m currently learning Javascript with HTML and React...
+	</p>
+</li>
 
 <h2 align="center"> My Experience Lenguage </h2>
 <div align="left">
