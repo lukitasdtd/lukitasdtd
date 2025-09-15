@@ -1,5 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580B87&height=120&section=header"/>
 <h1 align="center"> # Hello Friend 👋 # </h1>
+<p>
+	I am an engineer in automotive mechanics, a novice developer 
+	in Python and JavaScript. 
+	With small implementation projects in systems and community aid
+</p>
 <div>
 <h2 align="center"> A little bit of me</h2>
 <li>
