@@ -28,12 +28,11 @@
     />
 </div>
 </div>
-	<!-- Especificaciones tecnicas -->
-# 
+	<!-- Especificaciones tecnicas --> 
 <footer>
 <p align="center">
 <a href="https://github.com/lukitasdtd">
-<img align="center" src="https://avatars.githubusercontent.com/u/220926512?v=4"  border-radius: 50%/>
+<img align="center" src="https://avatars.githubusercontent.com/u/220926512?v=4"  width: 500px border-radius: 8px/>
 </a></p></footer>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580B87&height=120&section=footer"/>
 <!--
