@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580B87&height=120&section=header"/>
 <h1 align="center"> # Hello Friend 👋 # </h1>
 <div>
-<h2 align="center"> a little bit of me</h2>
+<h2 align="center"> A little bit of me</h2>
 <li>
 	<p>🔭 I’m currently working on Generator Image Binarie ...</p>
 </li>
@@ -30,6 +30,7 @@
 </div>
 
 <div>
+<br>
 <footer>
 <p align="center">
 <a href="https://github.com/lukitasdtd">
