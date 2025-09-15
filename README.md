@@ -1,12 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580B87&height=120&section=header"/>
 <h1 align="center"> # Hello Friend 👋 # </h1>
-<br>
-
-<div align="center">
-<h2 align="center">Contact me!</h2>
-<a href = 'https://www.linkedin.com/in/lucas-jim%C3%A9nez-gonz%C3%A1lez-40052637a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-</div>
-
 <div>
 <h2 align="center"> a little bit of me</h2>
 <li>
@@ -16,9 +9,6 @@
 	<p>🌱 I’m currently learning Javascript with HTML and React...
 	</p>
 </li>
-</div>
-
-
 <div align="center">
 <h2 align="center"> My Experience Lenguage </h2>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" link="https://www.python.org/"></code>
@@ -33,7 +23,12 @@
     />
 </div>
 </div>
-	<!-- Especificaciones tecnicas --> 
+	
+<div align="center">
+<h2 align="center">Contact me!</h2>
+<a href = 'https://www.linkedin.com/in/lucas-jim%C3%A9nez-gonz%C3%A1lez-40052637a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+</div>
+
 <div>
 <footer>
 <p align="center">
