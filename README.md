@@ -1,12 +1,14 @@
 ## Hi there 👋
 
 <h2 align="center"> Lenguajes </h2>
+<div align="center">
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" href="https://www.python.org/"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-#
-<h2 align="left">
+</div>
+
+<h2 align="lef">
 My Current Workstation Specification // Especificaciones Tecnicas de Estación de Trabajo </h2>
 
 <div align="center">
@@ -24,7 +26,7 @@ My Current Workstation Specification // Especificaciones Tecnicas de Estación d
 <p align="center">
 
 <a href="https://github.com/lukitasdtd">
-<img align="center" src="https://github-readme-twitter.gazf.vercel.app/api?id=Fahim_FBA&layout=wide&show_reply=off&show_retweet=off" />
+<img align="center" src="https://avatars.githubusercontent.com/u/220926512?v=4" />
 </a>
 
 </p>
