@@ -52,7 +52,7 @@ My Current Workstation Specification</h2>
 <p align="center">
 
 <a href="https://github.com/lukitasdtd">
-<img align="center" src="https://avatars.githubusercontent.com/u/220926512?v=4" />
+<img align="center" src="https://avatars.githubusercontent.com/u/220926512?v=4" shape="circle" coords="337, 300, 44" />
 </a></p></footer>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580B87&height=120&section=footer"/>
 <!--
