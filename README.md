@@ -11,13 +11,19 @@
 - 😄 Pronouns: ...
 
 <h2 align="center"> My Experience Lenguage </h2>
-<div align="center">
+<div align="left">
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" link="https://www.python.org/"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<div align="right">
+    <img
+      height="150"
+      alt="languages graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lukitasdtd&theme=vue"
+    />
 </div>
-<div>
+</div>
 	<!-- Especificaciones tecnicas -->
 <div align="center">
 <h2 align="lef">
@@ -31,13 +37,7 @@ My Current Workstation Specification</h2>
 </div>
 </div>
 
-<div align="center">
-    <img
-      height="150"
-      alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lukitasdtd&theme=vue"
-    />
-</div>
+
 
 
 
@@ -45,7 +45,7 @@ My Current Workstation Specification</h2>
 <footer>
 <p align="center">
 <a href="https://github.com/lukitasdtd">
-<img align="center" src="https://avatars.githubusercontent.com/u/220926512?v=4"/>
+<img align="center" src="https://avatars.githubusercontent.com/u/220926512?v=4" width = 30px/>
 </a></p></footer>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=580B87&height=120&section=footer"/>
 <!--
